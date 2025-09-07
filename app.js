@@ -5,4 +5,3 @@ const students={
     dep:"bca",
     subject:["math","hindi","phy"],
 };
-
